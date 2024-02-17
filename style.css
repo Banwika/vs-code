@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(33, 9, 47, 1);
+}
+
+.header{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.brand_name{
+    color: white;
+}
+
+.nav{
+    display: flex;
+    gap: 22px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+}
+
+.Div{
+    display: flex;
+}
+
+.main{
+    margin-left:330px;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+
+.main_div{
+    justify-content: space-around;
+}
+
+.img{
+    margin-left: 300px;
+}
+
+.button{
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(37, 37, 37);
+    padding: 12px 12px 12px 12px;
+}
+
+h1{
+    color: aqua;
+}
+
+p{
+    margin-top: 50px;
+    color: rgba(173, 181, 190, 1);  
+}
